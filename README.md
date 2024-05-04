@@ -6,3 +6,4 @@ _Hola, Soy Claudio Tapia y este es mi repositorio para Notas de lectura para mis
 > 1. Enfócate en el proceso, no solo en el resultado.
 > 2. Acepta los retos como oportunidades de aprender.
 > 3. Moldeate con una mentalidad de aprendizaje siempre continuo.
+.
