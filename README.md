@@ -1,5 +1,5 @@
-# reading-notes
-Hola, Soy Claudio Tapia y este es mi repositorio para Notas de lectura para mis cursos de Enter Tech School.
+# reading-notes `#1414b8`
+_Hola, Soy Claudio Tapia y este es mi repositorio para Notas de lectura para mis cursos de Enter Tech School._
 ## Para mi el Grouth Mindset es confiar en uno mismo que tiene la capacidad de aprender lo que se proponga.
 # Recordatorios sobre cómo mantenerte con una Growth Mindset:
 > [!TIP]
