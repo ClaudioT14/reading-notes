@@ -6,10 +6,10 @@
 4. Una caracteristica importante es que te ayude en tu trabajo, que tenga tal vez un autocompletado, busquedas, etc.
    
 ## Comandos:
-+pwd: muestra la ruta en la que te encuentras.
-+ls: te muestra una lista de archivos en el directorio donde estes.
-+mkdir: crea una carpeta en el directorio donde estes o en una ruta.
-+touch: crea un archivo vacio dentro de la ruta.
++ pwd: muestra la ruta en la que te encuentras.
++ ls: te muestra una lista de archivos en el directorio donde estes.
++ mkdir: crea una carpeta en el directorio donde estes o en una ruta.
++ touch: crea un archivo vacio dentro de la ruta.
 
 ## Que sucede cuando ejecutas lo siguiente en el terminal:
 > cd projects
