@@ -13,9 +13,13 @@
 
 ## Que sucede cuando ejecutas lo siguiente en el terminal:
 > cd projects
+> 
 > mkdir new-project
+> 
 > touch new-project/newfile.md
+> 
 > cd ..
+> 
 > ls projects/new-project
 ...
 
