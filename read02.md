@@ -18,8 +18,13 @@
 > cd ..
 > ls projects/new-project
 ...
+
 _cd projects: es el comando que te redirige al directorio de projects._
+
 _mkdir new-project: crea una carpeta llamada new-project dentro del directorio projects._
+
 _touch new-project/newfile.md: crea un archivo vacio llamado newfile.med dentro de la carpeta new project. (la extencion .md se refiere al formato Markdown)_
+
 _cd .. : con este comando regresas a la primera carpeta del directorio creado, es decir, se regresa al directorio projects._
+
 _ls projects/new-project: es la lista el contenido del directorio "new-project" que está dentro del directorio "projects" y este tendra el archivo "newfile.md", ya que fue creado con extencion markdown.
