@@ -1,9 +1,9 @@
 # Respuestas:
 ## En mi oipinion las cuatro caracteristicas importantes para un editor de texto deben ser:
-1. Que sea  siempre con los sistemas operativos que uno use, obviamente de esta manera sera mas facil adaptarse.
-2. Una interfaz intuitiva para que de esta manera uno pueda estar enfocado en su trabajo y no complicarse o equivocarse.
-3. Un editor que te permita configurar de manera amplia segun lo que requieras en tu trabajo, como por ejemplo las extenciones o algunas preferencias.
-4. Una caracteristica importante es que te ayude en tu trabajo, que tenga tal vez un autocompletado, busquedas, etc.
+1. Descarga de distintas extensiones.
+2. Autocompletar textos, y corrección de errores.
+3. Resaltado de sintaxis.
+4. Distintos de temas.
    
 ## Comandos:
 + pwd: muestra la ruta en la que te encuentras.
