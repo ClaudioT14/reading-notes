@@ -12,9 +12,8 @@ Hay 3 tipos:
 
 3. ¿Cuál es el comando para rastrear y preparar archivos?
 > _Para rastrear los archivos se colocan los siguientes comandos:_
-> $ git añadir *.c
-> $ git añadir LICENCIA
-> $ git commit -m "cualquier mensaje aquí"
+> Rastreo: git add filename
+> Preparar: git status
 
 4. ¿Cuál es el comando para tomar una instantánea de los archivos modificados?
 > _El comando para tomar instantanea de archivos modificados es el siguiente:_
