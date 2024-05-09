@@ -1,4 +1,4 @@
-# Respuestas:
+# La computadora del programador:
 ## En mi oipinion las cuatro caracteristicas importantes para un editor de texto deben ser:
 1. Descarga de distintas extensiones.
 2. Autocompletar textos, y corrección de errores.
