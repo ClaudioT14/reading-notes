@@ -7,6 +7,7 @@ _Hola, Soy Claudio Tapia y este es mi repositorio para Notas de lectura para mis
 > 2. Acepta los retos como oportunidades de aprender.
 > 3. Moldeate con una mentalidad de aprendizaje siempre continuo.
 
-## Lista de contenidos:
+## [Notas de lectura del Codigo 102:](https://github.com/ClaudioT14/reading-notes/tree/8768f2f79a3962350ba434afafc11648598616f8/102)
+
 
 .
