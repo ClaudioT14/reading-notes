@@ -16,7 +16,7 @@ Para mi el Grouth Mindset es confiar en uno mismo que tiene la capacidad de apre
 - [Read01: Aprendiendo Markdown.](https://claudiot14.github.io/reading-notes/102/clase1.html)
 - [Read02: La computadora del programador](https://claudiot14.github.io/reading-notes/102/clase2.html)
 - [Read03: Versionamiento local y remoto.](https://claudiot14.github.io/reading-notes/102/clase3.html)
-- [Read04: Estructura de paginas web](https://claudiot14.github.io/reading-notes/102/clase4.html)
+- [Read04: Estructura de paginas web con HTML](https://claudiot14.github.io/reading-notes/102/clase4.html)
 - [Read05: Diseño de paginas web con CSS](https://claudiot14.github.io/reading-notes/102/clase5.html)
 - [Read06: Paginas web dinamicas con JavaScript](https://claudiot14.github.io/reading-notes/102/clase6.html)
 - [Read07: Programacion con JavaScript](https://claudiot14.github.io/reading-notes/102/clase7.html)
