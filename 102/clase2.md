@@ -1,17 +1,17 @@
-# La computadora del programador:
-## En mi oipinion las cuatro caracteristicas importantes para un editor de texto deben ser:
-1. Descarga de distintas extensiones.
-2. Autocompletar textos, y corrección de errores.
-3. Resaltado de sintaxis.
-4. Distintos de temas.
+# La computadora del programador.
+1. En mi oipinion las cuatro caracteristicas importantes para un editor de texto deben ser:
+- Descarga de distintas extensiones.
+- Autocompletar textos, y corrección de errores.
+- Resaltado de sintaxis.
+- Distintos de temas.
    
-## Comandos:
+2. Comandos:
 + pwd: muestra la ruta en la que te encuentras.
 + ls: te muestra una lista de archivos en el directorio donde estes.
 + mkdir: crea una carpeta en el directorio donde estes o en una ruta.
 + touch: crea un archivo vacio dentro de la ruta.
 
-## Que sucede cuando ejecutas lo siguiente en el terminal:
+3. Que sucede cuando ejecutas lo siguiente en el terminal:
 > cd projects
 > 
 > mkdir new-project

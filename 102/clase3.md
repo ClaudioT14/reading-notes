@@ -1,4 +1,4 @@
-# Versionamiento local y remoto:
+# Versionamiento local y remoto.
 1. ¿Qué es el control de versiones?
 > _Es una herramienta que permite revisar un archivo y sus distintas versiones o varios archivos con cambios registrados, esta herramienta ayuda a seguir las modificaciones de un archivo, tambien regresarlos a una version anterior y corregir errores en archivos._
 Hay 3 tipos:
