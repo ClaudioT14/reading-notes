@@ -48,8 +48,8 @@
 
 - Semántica.
 
-¿Por qué se debe utilizar un elemento (<h1>) en vez de un (<span>) para mostrar un título de primer nivel?
->_Se debe de usar <h1> por que de esa manera se obtiene un valor semantico y siempre se usa para encabezados, (<span>) es para que simplemente parezca un encabezado, y no tendra valor semantico, por lo que no tendra ningun beneficio adicional.
+¿Por qué se debe utilizar un elemento h1> en vez de un span para mostrar un título de primer nivel?
+>_Se debe de usar h1 por que de esa manera se obtiene un valor semantico y siempre se usa para encabezados, span es para que simplemente parezca un encabezado, y no tendra valor semantico, por lo que no tendra ningun beneficio adicional.
 ¿Cuáles son los beneficios de utilizar etiquetas semánticas en nuestro HTML?
 >_ Estos son algunos beneficios:_
 - Los motores de búsqueda considerarán su contenido como palabras clave importantes para influir en las clasificaciones de búsqueda de la página (ver SEO).
