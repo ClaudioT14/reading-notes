@@ -48,13 +48,13 @@
 3. Describe un problema práctico que puedes resolver con una función.
 >_Ejemplo:
 
-// Definición de la función para verificar si un número es positivo
-const esPositivo = num => num > 0;
+>// Definición de la función para verificar si un número es positivo
+>const esPositivo = num => num > 0;
 
-// Uso de la función:
-console.log(esPositivo(5));  // true
-console.log(esPositivo(-3)); // false
-console.log(esPositivo(0));  // false
+>// Uso de la función:
+>console.log(esPositivo(5));  // true
+>console.log(esPositivo(-3)); // false
+>onsole.log(esPositivo(0));  // false
 
 4. Si una declaración if comprueba una CONDICION y si resulta TRUE, entonces el código se ejecutará.
 5. ¿Cuál es el uso del else if?
