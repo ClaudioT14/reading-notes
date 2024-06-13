@@ -1,6 +1,7 @@
 # Introducción al Desarrollo Web.
 
 - Preguntas:
+## Aprende HTML.
 1. ¿Por qué es importante utilizar elementos semánticos en nuestro HTML?
 >_Porque de esta manera nuestra web puede verse beneficiada para influir en la clasificacion de busqueda, tambien de esta forma se le da un sentido y significado a la pagina, de esta manera obtener una apariencia correcta._
 2. ¿Cuántos niveles de encabezado existen en HTML?

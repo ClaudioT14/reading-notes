@@ -1,6 +1,7 @@
 # Configuración de Herramientas para Desarrolladores.
 
 - Preguntas:
+## Aprende HTML.
 1. Crea un poema corto describiendo cómo HTTP envía datos entre computadoras.
 2. Describe como los archivos HTML, CSS y JS son “analizados” en el navegador.
 > _El navegador descompone HTML, CSS y JavaScript, luego los junta todos para crear el diseño y hacer que la página se vea adecuada. Ahi es donde se construye el DOM, CSSOM, luego combian estos dos para calcular el layout y pintar la página (JavaScript)._
