@@ -30,6 +30,6 @@ const dog = {
 
 ## Aprendiendo del DOM.
 1. ¿Qué es el DOM?
->_el DOM actúa como una interfaz que JavaScript utiliza para manipular y actualizar la estructura y contenido de una página web de manera dinamica(Modifica la visualizacion del HTML si editar el codigo index.html)._
+>_El DOM actúa como una interfaz que JavaScript utiliza para manipular y actualizar la estructura y contenido de una página web de manera dinamica(Modifica la visualizacion del HTML si editar el codigo index.html)._
 2. Describe brevemente la relación entre el DOM y JavaScript.
->_El DOM es ina interfaz que permite acceder a los programas y modificar documentos HTML y XML estructuradamente.Representa documentos como objetos que pueden ser cambiados mediante propiedades y métodos, conectando paginas web con scripts o lenguajes de programacion.
+>_El DOM es ina interfaz que permite acceder a los programas y modificar documentos HTML y XML estructuradamente.Representa documentos como objetos que pueden ser cambiados mediante propiedades y métodos, conectando paginas web con scripts o lenguajes de programacion._
